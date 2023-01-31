@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Construção de página de HTML e CSS é um projeto de estudos das tecnologias básicas para colocar posicionamento em objetos, adicionar fontes e estilos e inserir marcações.
 
 - [Visite a página](https://studieddevdias.github.io/moveisplanj/)
-
+- [Visite o projeto](https://github.com/studieddevDias/moveisplanj)
 
 
 
